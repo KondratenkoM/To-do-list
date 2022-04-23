@@ -2,17 +2,13 @@ To do list app (SwiftUI)
 
 
 
+![Simulator Screen Shot - iPhone 11 - 2022-04-24 at 00 17 10](https://user-images.githubusercontent.com/89836183/164946274-742d8499-fce1-4792-8047-4c0c3031b6ef.png)
 
 
-<img width="364" alt="Снимок экрана 2022-04-22 в 14 45 59" src="https://user-images.githubusercontent.com/89836183/164709563-89cecdce-d434-44fc-a8a3-b072b7534afe.png">
+![Simulator Screen Shot - iPhone 11 - 2022-04-24 at 00 18 03](https://user-images.githubusercontent.com/89836183/164946281-76cf4709-0940-4e60-88cf-35943aee1009.png)
 
 
-<img width="363" alt="Снимок экрана 2022-04-22 в 14 50 29" src="https://user-images.githubusercontent.com/89836183/164709720-5b4546cd-2a4a-41b6-a70e-317d15c3c61b.png">
+![Simulator Screen Shot - iPhone 11 - 2022-04-24 at 00 18 53](https://user-images.githubusercontent.com/89836183/164946283-dfd19978-4841-4646-80b2-30d889a7a6e5.png)
 
 
-<img width="363" alt="Снимок экрана 2022-04-22 в 14 52 01" src="https://user-images.githubusercontent.com/89836183/164709757-f0ac6c62-6de7-4cd8-93dd-4cccd9868923.png">
-
-
-<img width="361" alt="Снимок экрана 2022-04-22 в 14 52 27" src="https://user-images.githubusercontent.com/89836183/164709771-5f41c612-3774-4233-be42-be9e7253b48f.png">
-
-<img width="365" alt="Снимок экрана 2022-04-22 в 14 53 01" src="https://user-images.githubusercontent.com/89836183/164709780-c0bb1a50-c258-4d82-962a-70e1f11ec0cd.png">
+![Simulator Screen Shot - iPhone 11 - 2022-04-24 at 00 19 01](https://user-images.githubusercontent.com/89836183/164946289-08ea07e9-0b39-4032-8869-ef50df4f0a36.png)
